@@ -1,0 +1,15 @@
+{
+  "name": "ARK软件源",
+  "identifier": "com.ark.mysource",
+  "version": "1.0",
+  "apps": [
+    {
+      "name": "示例应用",
+      "bundleIdentifier": "com.example.app",
+      "version": "1.0.0",
+      "downloadURL": "https://替换成你的IPA直链地址.ipa",
+      "iconURL": "https://替换成你的图标直链地址.png",
+      "description": "这是第一个测试应用"
+    }
+  ]
+}
